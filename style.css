@@ -1,0 +1,428 @@
+#header{
+    background-color: #82bf79;
+    text-align:center;
+    color: white;
+    
+  
+
+}
+
+
+
+
+.navigate{
+    display: flex;
+    gap:4%;
+    margin-top: -26%;
+    position: relative;
+    font-size: 70%;
+    cursor: pointer;
+
+}
+.phone-line{
+    margin-left: 9%;
+    margin-top:-13% ;
+    
+}
+.navigate a{
+    color:white;
+    margin-top:-13%
+
+}
+#title{
+    text-align: center;
+    padding: 0;
+}
+.pillow{
+    display: flex;
+    margin: 0;
+    
+}
+.pillow img{
+    position: relative;
+    width:100%;
+}
+.pillow-text{
+    position: absolute;
+    text-align: center;
+    margin-top: 25%;
+    margin-left: 15%;
+    width: 60%;
+    height: 150%;
+    color: white;
+    font-size: 40px;
+    
+}
+.pillow-text p{
+    font-size:80% ;
+}
+.pillow button{
+    width: 170px;
+    height:60px;
+    background-color: #afa9a9;
+    border: none;
+    border-radius: 9%;
+    font-size: 20px;
+    color: white;
+}
+.container{
+   margin-left: 15%;
+    display: flex;
+    gap:10%;
+margin-top: 4%;
+}
+.container h2{
+    text-align: center;
+
+
+}
+#image{
+    margin-left: -30px;
+    width: 600px;
+
+}
+.screen-paragraph h4{
+    text-align: center;
+    color:#82bf79
+}
+.screen-paragraph p{
+    color:#bdbbbb ;
+}
+.screen-buttons{
+    display: flex;
+    gap:20%;
+    font-size: 40%;
+
+
+}
+#button-left{
+    font-size: 190%;
+    width:170%;
+    height: 250%;
+    border-radius:9cqw;
+    background-color: #aee0a6;
+    border: none;
+}
+#button-right{
+    font-size: 190%;
+    width: 170%;
+    height: 240%;
+    border-radius:9cqb;
+}
+.icons{
+    display: flex;
+    
+    
+}
+.icons p{
+    margin-top: 24%;
+    margin-left: -45%;
+    color:#afb8ae;
+    font-size: 120%;
+}
+.icons h3{
+    margin-top: 15%;
+    font-size: 170%;
+}
+#premium{
+    width:160px;
+    height: 130%;
+
+}
+.icon-left{
+    display: flex; 
+}
+.icon-left h3{
+    margin-top: 15%;
+}
+#warranty{
+    width:140px;
+
+}
+.icon-next{
+    display: flex;
+}
+#shipping{
+    width:140px;
+
+}
+.icon-center{
+    display: flex;
+    
+}
+#sustain{
+    width: 150px;
+    
+}
+.icon-right{
+    display: flex;
+}
+.screen-text{
+    font-size: 150%;
+
+}
+.techniques-image{
+    display: flex;
+    gap:1%;
+   
+    
+}
+#pink-img{
+    width: 600px;
+    border-radius:30px;
+    height: 80%;
+}
+#center-img{
+    width: 580px;
+    border-radius:7%;
+    height: 80%;
+}
+#right-img{
+    width: 600px;
+    border-radius: 10%;
+    height: 80%;
+}
+.techniques-text{
+    text-align: center;
+}
+.techniques-text h1{
+    font-size:380%;
+}
+.techniques-text h3{
+    font-size: 160%;
+    color:#bdbbbb;
+}
+.techniques-image h1{
+    font-size: 250%;
+}
+
+.techniques-image p{
+    font-size: 150%;
+}
+.traditional p{
+    color: #afa9a9;
+}
+.advanced p{
+    color: #afa9a9;
+}
+.four-color p{
+    color:#afa9a9;
+}
+.client-praise h1{
+    text-align: center;
+    font-size: 450%;
+    padding-top: 5%;
+}
+.client-praise p{
+    text-align: center;
+    font-size: 150%;
+    color: #afa9a9;
+}
+.logos{
+    display: flex;
+    gap:1%;
+    
+
+}
+.log-right{
+    display: flex;
+
+}
+.log-center{
+    display: flex;
+  }
+.brand-names{
+    display: flex;
+    gap:3%;
+    padding-top: 7%;
+}
+#arvinde{
+    width: 140px;
+height: 250px;
+margin-top: 1%;
+}
+#gap{
+    height: 100px;
+    margin-top:4.5%;
+
+}
+#myntra{
+    width: 200px;
+    height: 70px;
+    margin-top: 5%;
+
+}
+#puma{
+    width: 200px;
+height: 100px;
+margin-top: 4%;
+}
+#adityaa{
+    width: 200px;
+    height: 150px;
+    margin-top: 3%;
+
+}
+#converse{
+width:200px;
+height: 100px;
+margin-top: 4%;
+}
+#markalar{
+    width: 290px;
+    height:250px;
+
+    
+}
+.log-left{
+    display:flex;
+}
+.logos h2{
+    margin-top: 9%;
+    margin-left: -10%;
+}
+.logos p{
+    margin-left: -30%;
+    margin-top: 20%;
+}
+#aditya{
+    width: 60%;
+    height: 70%;
+    margin-top: 2%;
+}
+#arvind{
+    width: 50%;
+    height: 50%;
+    margin-top: 2%;
+    margin-left: -5%;
+
+
+
+}
+#raymond{
+    width: 130%;
+    height: 140%;
+    margin-top:-35%;
+   margin-left: -90%;
+}
+.high-quality{
+    display: flex;
+    gap:4%;
+    margin-top: 5%;
+}
+.quality-text h3{
+    color: #afa9a9;
+    font-size: 130%;
+
+}
+.quality-text h1{
+font-size: 300%;
+}
+#quality-img{
+    height: 100%;
+    margin-left: 0;
+    margin-top: 5%;
+    border-radius:5%;
+    width: 800px;
+}
+.best-product  h1 {
+    text-align: center;
+    font-size: 350%;
+
+}
+.best-product p{
+    text-align: center;
+    font-size: 150%;
+    color: #afa9a9;
+}
+.best-product-image{
+    display: flex;
+    gap:3%;
+    margin-left: 3%;
+}
+#best-left{
+    height: 600px;
+    width: 580px;
+    border-radius: 8%;
+}
+#best-center{
+    width:570px;
+    height: 600px;
+    border-radius:8%;
+
+}
+#best-right{
+    width: 580px;
+    height: 600px;
+    border-radius: 8%;
+}
+#best-bottom{
+
+    width:95%;
+    border-radius: 5%;
+   
+
+}
+.location h1{
+    text-align: center;
+    font-size: 350%;
+}
+.location p{
+    font-size: 150%;
+    color: #afa9a9;
+}
+.map-location{
+    display: flex;
+    margin-left: 10%;
+    
+} 
+#map{
+    position: absolute;
+    width: 70%;
+height: 600px;
+
+}
+.form{
+    position: relative;
+    margin-left: 15%;
+    margin-top: 10%;
+    
+}
+.location p{
+    text-align: center;
+}
+
+.footer {
+    background-color: #333;
+    color: white;
+    margin-top: 15%;
+    margin-left: 10px;
+    
+  }
+  
+  .footer-container {
+    display: flex;
+    gap:10%;
+    margin-left: 35px;
+    font-size: medium;
+    height: 500px;
+    
+  
+  }
+  
+ .footer-column {
+    font-size: medium;
+    margin-top: 10%;
+    text-decoration: none;
+    color: white;
+  }
+  
+  
+  
+  #img{
+    width: 300px;
+    margin-top: -5px;
+  }
+  .copy-right{
+    text-align: center;
+  }
