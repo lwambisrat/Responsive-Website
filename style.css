@@ -8,17 +8,10 @@
     background-color: #82bf79;
     text-align:center;
     color: white;
-    
-  
-
 }
-
-
-
-
 .navigate{
     display: flex;
-    gap:4%;
+    gap:3%;
     margin-top: -26%;
     position: relative;
     font-size: 70%;
@@ -174,6 +167,16 @@ margin-top: 4%;
     gap:1%;
    
     
+
+}
+.four-textile{
+    display: flex;
+}
+.advanced-textile{
+    display: flex;
+}
+.textile-arrow{
+    display: flex;
 }
 #pink-img{
     width: 600px;
@@ -216,12 +219,18 @@ margin-top: 4%;
 .four-color p{
     color:#afa9a9;
 }
+.client-praise p{
+    text-align: center;
+    color: #afa9a9;
+    font-size: 110%;
+    margin-left: -10%;
+}
 .client-praise h1{
     text-align: center;
     font-size: 450%;
     padding-top: 5%;
 }
-.client-praise p{
+.client-praise h3{
     text-align: center;
     font-size: 150%;
     color: #afa9a9;
@@ -229,15 +238,39 @@ margin-top: 4%;
 .logos{
     display: flex;
     gap:1%;
-    
 
+ }   
+.logos h3{
+    margin-left: -40px;
+    margin-top: 15%;
 }
+.log-left{
+    display: flex;
+}
+
+
 .log-right{
     display: flex;
+    margin-right: 5%;
+    
+   
+} 
+.log-right h3{
+    margin-top: 80px;
+}  
+ .raymond{
+
+ width: 90px;
+ 
+
 
 }
+
 .log-center{
     display: flex;
+}
+.log-center h3{
+    margin-top: 70px;
   }
 .brand-names{
     display: flex;
@@ -390,11 +423,15 @@ font-size: 300%;
 height: 600px;
 
 }
-.form{
+.contact{
     position: relative;
-    margin-left: 15%;
-    margin-top: 10%;
-    
+   padding-left: 20px;
+    margin-left: 5%;
+    margin-top:9%;
+    background-color:white ;
+    box-shadow: 4px 4px  5px 4px rgb(165, 160, 160);
+    width: 400px;
+    height: 400px;
 }
 .location p{
     text-align: center;
@@ -403,14 +440,14 @@ height: 600px;
 .footer {
     background-color: #333;
     color: white;
-    margin-top: 15%;
+    margin-top: 3%;
     margin-left: 10px;
     
   }
   
   .footer-container {
     display: flex;
-    gap:10%;
+    gap:9%;
     margin-left: 35px;
     font-size: medium;
     height: 500px;
@@ -425,7 +462,11 @@ height: 600px;
     color: white;
   }
   
-  
+  .head-office{
+    display: flex;
+    gap:3%
+   
+  }
   
   #img{
     width: 300px;
