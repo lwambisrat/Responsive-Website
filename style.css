@@ -1,4 +1,10 @@
-#header{
+
+@font-face{
+    font-family:poppins;
+    src:url(popinnis/Poppins-Light.ttf)
+
+}
+    #header{
     background-color: #82bf79;
     text-align:center;
     color: white;
@@ -36,11 +42,13 @@
 .pillow{
     display: flex;
     margin: 0;
+ 
     
 }
 .pillow img{
     position: relative;
     width:100%;
+    filter: brightness(0.7);
 }
 .pillow-text{
     position: absolute;
